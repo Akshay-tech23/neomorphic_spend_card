@@ -1,0 +1,19 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - prefer_const_constructors
+    - prefer_const_declarations
+    - prefer_final_fields
+    - prefer_final_locals
+    - avoid_print
+    - use_key_in_widget_constructors
+    - sized_box_for_whitespace
+    - avoid_unnecessary_containers
+    - prefer_single_quotes
+    - sort_pub_dependencies
+
+analyzer:
+  exclude:
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"

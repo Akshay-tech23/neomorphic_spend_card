@@ -1,0 +1,35 @@
+name: neomorphic_spend_card
+description: >-
+  A beautiful, animated neumorphic spend overview card for Flutter fintech apps.
+  Features an animated arc budget ring, live spend ticker, category breakdown
+  chips, shimmer pulse, and full dark/light mode support.
+version: 1.0.0
+homepage: https://github.com/yourusername/neomorphic_spend_card
+repository: https://github.com/yourusername/neomorphic_spend_card
+issue_tracker: https://github.com/yourusername/neomorphic_spend_card/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+topics:
+  - ui
+  - fintech
+  - card
+  - neumorphism
+  - animation
+
+screenshots:
+  - description: "Light mode spend card"
+    path: screenshots\light_mode.png
+  - description: "Dark mode spend card"
+    path: screenshots\dark_mode.png

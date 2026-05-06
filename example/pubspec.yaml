@@ -1,0 +1,14 @@
+name: neomorphic_spend_card_example
+description: Example app demonstrating the neomorphic_spend_card package.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  neomorphic_spend_card:
+    path: ../
