@@ -30,6 +30,6 @@ topics:
 
 screenshots:
   - description: "Light mode spend card"
-    path: screenshots\light_mode.png
+    path: screenshots/light_mode.png
   - description: "Dark mode spend card"
-    path: screenshots\dark_mode.png
+    path: screenshots/dark_mode.png
