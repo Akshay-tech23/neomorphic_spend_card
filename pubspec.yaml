@@ -4,9 +4,9 @@ description: >-
   Features an animated arc budget ring, live spend ticker, category breakdown
   chips, shimmer pulse, and full dark/light mode support.
 version: 1.0.0
-homepage: https://github.com/yourusername/neomorphic_spend_card
-repository: https://github.com/yourusername/neomorphic_spend_card
-issue_tracker: https://github.com/yourusername/neomorphic_spend_card/issues
+homepage: https://github.com/Akshay-tech23/neomorphic_spend_card
+repository: https://github.com/Akshay-tech23/neomorphic_spend_card
+issue_tracker: https://github.com/Akshay-tech23/neomorphic_spend_card/issues
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
