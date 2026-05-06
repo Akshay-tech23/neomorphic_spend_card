@@ -229,4 +229,4 @@ Please open an issue first to discuss what you would like to change.
 
 ## License
 
-MIT © 2026 Your Name. See [LICENSE](LICENSE) for details.
+MIT © 2026 Akshay. See [LICENSE](LICENSE) for details.
